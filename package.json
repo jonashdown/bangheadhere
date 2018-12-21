@@ -9,7 +9,7 @@
     "bang-head-here": "npm start"
   },
   "author": "Jon Ashdown",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "dependencies": {
     "taiko": "^0.4.0"
   }

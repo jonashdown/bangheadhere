@@ -1,0 +1,16 @@
+{
+  "name": "bangheadhere",
+  "version": "1.0.0",
+  "description": "bang head here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "taiko index.js",
+    "bang-head-here": "npm start"
+  },
+  "author": "Jon Ashdown",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "taiko": "^0.4.0"
+  }
+}

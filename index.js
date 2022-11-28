@@ -4,7 +4,7 @@ const { openBrowser, goto, write, click, closeBrowser } = require('taiko');
     try {
         await openBrowser({ headless: false });
         await goto('https://google.com');
-        await write('Bollocks to Brexit');
+        await write('Bang Head Here!');
         await click('Google Search');
         await click('Images');
     } catch (e) {
